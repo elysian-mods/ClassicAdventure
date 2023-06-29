@@ -1,16 +1,16 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.elysian_mods.classic_adventure.mixin",
+  "package": "io.github.kg583.classic_adventure.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "io.github.kg583.classic_adventure.mixin.common.EnforceMiningLevel",
-    "io.github.kg583.classic_adventure.mixin.common.OverrideBlockBreakingSpeed",
-    "io.github.kg583.classic_adventure.mixin.common.UnrestrictAdventureMode"
+    "common.EnforceMiningLevel",
+    "common.OverrideBlockBreakingSpeed",
+    "common.UnrestrictAdventureMode"
   ],
   "client": [
-    "io.github.kg583.classic_adventure.mixin.client.AddAdventureModeToCreateWorld",
-    "io.github.kg583.classic_adventure.mixin.client.PreventBlockBreakingProgress"
+    "client.AddAdventureModeToCreateWorld",
+    "client.PreventBlockBreakingProgress"
   ],
   "injectors": {
     "defaultRequire": 1
