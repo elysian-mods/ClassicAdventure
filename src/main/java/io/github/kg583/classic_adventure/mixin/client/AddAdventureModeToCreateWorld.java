@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure.mixin.client;
+package io.github.kg583.classic_adventure.mixin.client;
 
 import com.chocohead.mm.api.ClassTinkerers;
 import net.minecraft.client.gui.screen.world.WorldCreator;

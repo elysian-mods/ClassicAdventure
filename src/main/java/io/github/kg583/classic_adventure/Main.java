@@ -1,7 +1,7 @@
-package io.github.elysian_mods.classic_adventure;
+package io.github.kg583.classic_adventure;
 
-import io.github.elysian_mods.classic_adventure.item.FlintAxe;
-import io.github.elysian_mods.classic_adventure.item.FlintMaterial;
+import io.github.kg583.classic_adventure.item.FlintAxe;
+import io.github.kg583.classic_adventure.item.FlintMaterial;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;

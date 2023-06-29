@@ -13,13 +13,13 @@
   "environment": "*",
   "entrypoints": {
     "preLaunch": [
-      "io.github.elysian_mods.classic_adventure.PreLaunch"
+      "io.github.kg583.classic_adventure.PreLaunch"
     ],
     "main": [
-      "io.github.elysian_mods.classic_adventure.Main"
+      "io.github.kg583.classic_adventure.Main"
     ],
     "mm:early_risers": [
-      "io.github.elysian_mods.classic_adventure.EarlyRiser"
+      "io.github.kg583.classic_adventure.EarlyRiser"
     ]
   },
   "mixins": [

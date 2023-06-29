@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure.item;
+package io.github.kg583.classic_adventure.item;
 
 import net.fabricmc.yarn.constants.MiningLevels;
 import net.minecraft.item.Items;

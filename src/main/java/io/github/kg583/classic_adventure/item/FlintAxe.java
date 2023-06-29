@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure.item;
+package io.github.kg583.classic_adventure.item;
 
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.ToolMaterial;

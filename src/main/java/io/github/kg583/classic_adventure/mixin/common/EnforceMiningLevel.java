@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure.mixin.common;
+package io.github.kg583.classic_adventure.mixin.common;
 
 import net.fabricmc.fabric.api.mininglevel.v1.MiningLevelManager;
 import net.minecraft.block.BlockState;

@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure.mixin.client;
+package io.github.kg583.classic_adventure.mixin.client;
 
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import net.minecraft.client.MinecraftClient;

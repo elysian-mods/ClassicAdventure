@@ -1,4 +1,4 @@
-package io.github.elysian_mods.classic_adventure;
+package io.github.kg583.classic_adventure;
 
 import com.chocohead.mm.api.ClassTinkerers;
 import net.fabricmc.loader.api.FabricLoader;
