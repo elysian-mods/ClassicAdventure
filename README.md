@@ -9,7 +9,7 @@ The Classic Adventure mod restores Adventure Mode to its former glory while also
 - Axe -> Leaves
 - Hoe -> Cactus
 - Pickaxe -> Pistons, infested blocks, packed ice, blue ice
-- No tool -> Beds, dirt, gravel, hay bales, (red) sand, snow (layers), (wet) sponges
+- No tool -> Beds, dirt, gravel, hay bales, mud, (red) sand, snow (layers), (wet) sponges
 
 The mod also adds a flint axe, which can be obtained without any other tools at the start of the game. Craft it shapelessly in the 2x2 grid with a stick and piece of flint. If you don't want to bother with it, give yourself a bonus chest.
 
