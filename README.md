@@ -6,11 +6,11 @@ However, before release 1.8, Adventure Mode was different: block breaking was in
 
 The Classic Adventure mod restores Adventure Mode to its former glory while also implementing a few obvious adjustments. The mod is faithful to [this list](https://minecraft.fandom.com/wiki/Adventure/Before_1.8) of tools and the blocks they can destroy, with a few reasonable exceptions:
 
-- Axes can break leaves
-- Beds, hay bales, and sponges can be broken with an empty hand
-- Pistons and infested blocks can be broken with a pickaxe
-- Cactus can be broken with a hoe
+- Axe -> Leaves
+- Hoe -> Cactus
+- Pickaxe -> Pistons, infested blocks, packed ice, blue ice
+- No tool -> Beds, dirt, gravel, hay bales, (red) sand, snow (layers), (wet) sponges
 
-The mod also adds a flint axe, which can be obtained without any other tools at the start of the game. If you don't want to bother with it, give yourself a bonus chest.
+The mod also adds a flint axe, which can be obtained without any other tools at the start of the game. Craft it shapelessly in the 2x2 grid with a stick and piece of flint. If you don't want to bother with it, give yourself a bonus chest.
 
 [^1]: Not that you _can't_ play it; resources and tools can be garnered from loot chests.

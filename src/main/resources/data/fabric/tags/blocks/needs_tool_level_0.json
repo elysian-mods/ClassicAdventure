@@ -354,6 +354,8 @@
     "minecraft:raw_iron_block",
     "minecraft:raw_copper_block",
     "minecraft:raw_gold_block",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
     "minecraft:piston",
     "minecraft:sticky_piston",
     "minecraft:piston_head",
@@ -400,8 +402,6 @@
     "minecraft:black_concrete_powder",
     "minecraft:rooted_dirt",
     "minecraft:muddy_mangrove_roots",
-    "minecraft:mud",
-    "minecraft:suspicious_sand",
-    "minecraft:suspicious_gravel"
+    "minecraft:mud"
   ]
 }
