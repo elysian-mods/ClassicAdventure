@@ -1,5 +1,5 @@
 plugins {
-    id 'fabric-loom' version '1.2-SNAPSHOT'
+    id 'fabric-loom' version '1.5-SNAPSHOT'
     id 'maven-publish'
 }
 
@@ -28,8 +28,6 @@ dependencies {
 
     // Everything else
     implementation 'com.github.Chocohead:Fabric-ASM:v2.3'
-    implementation "com.github.LlamaLad7:MixinExtras:0.1.1"
-    annotationProcessor "com.github.LlamaLad7:MixinExtras:0.1.1"
 }
 
 processResources {
