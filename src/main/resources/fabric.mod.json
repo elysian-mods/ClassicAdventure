@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "classic_adventure",
-  "version": "1.0-1.20.1",
+  "version": "1.0-1.20.2",
   "name": "Classic Adventure",
   "description": "",
   "authors": [],
@@ -26,9 +26,9 @@
     "classic_adventure.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.21",
+    "fabricloader": ">=0.14.22",
     "fabric": "*",
-    "minecraft": "1.20.1",
+    "minecraft": "1.20.2",
     "mm": ">=2.3"
   }
 }
